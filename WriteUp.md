@@ -16,15 +16,15 @@
 </div>  
 
 # Indice  
-## Question 1  
-## Question 2  
-## Question 3  
-## Question 4  
-## Question 5  
-## Question 6  
-## Question 7  
-## Question 8  
-## Question 9  
+## · Question 1  
+## · Question 2  
+## · Question 3  
+## · Question 4  
+## · Question 5  
+## · Question 6  
+## · Question 7  
+## · Question 8  
+## · Question 9  
 
 ## Question 1: In KB, what is the size of the malicious file? / En KB, ¿Cuál es el tamaño del archivo malicioso?
 
@@ -84,7 +84,25 @@ En el mismo comentario de antes, tenemos la respuesta:
 
 ![Imágenes](Images/10.png)  
 
+# DISCLAIMER
 
+Este writeup es SOLO para propósitos educativos.  
+Úsalo responsablemente en entornos autorizados como Cyberdefenders.  
+
+**Autor:** pablocaraballofernandez  
+**Plataforma:** Cyberdefenders
+
+</div>
+
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-caraballo-fern%C3%A1ndez-a12938358/)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/CyberPablo)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://ctf.hackthebox.com/user/profile/872564)
+  .[![Cyberdefenders](https://img.shields.io/badge/CyberDefenders-1E3A5F?style=for-the-badge&logo=shield&logoColor=white)](https://cyberdefenders.org/p/cybersecpcarfer)
+  
+</div>
 
 
 
