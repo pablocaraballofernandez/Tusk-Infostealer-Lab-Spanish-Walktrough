@@ -20,18 +20,14 @@ Guía completa y detallada del lab **Tusk Infostealer** de Cyberdefenders, docum
 
 ##  Objetivos del laboratorio
 
-- [x] Búsqueda de datos post explotación
-- [x] Análisis de capturas de red
-- [x] Análisis de archivos
+- [x] Búsqueda de información
 
 ## Tecnologías y Herramientas
 
 ### Herramientas utilizadas
 - **VirusTotal** - Servicio de escaneo múltiple
-- **Whois** - Consulta de dominios IP
-- **Cyberchef** - Procesamiento de datos
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/pablocaraballofernandez/XLMRat-Cyberdefenders-Spanish-Walktrough.git
-cd XLMRat-Cyberdefenders-Spanish-Walktrough
+git clone https://github.com/pablocaraballofernandez/Tusk-Infostealer-Lab-Spanish-Walktrough.git
+cd Tusk-Infostealer-Lab-Spanish-Walktrough
